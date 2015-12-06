@@ -1,7 +1,7 @@
 name: Infinite Futures
 favicon: null
-layout_spectrum: 0.04205768019892275
-typography_spectrum: 0.4818850092124194
+layout_spectrum: 0.50303
+typography_spectrum: 0.2607
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.2689899974502623
-  lightness: 0.24123496911488473
-  saturation: 0.0012833233922719955
-  rhythmicContrast: 0.48847552365623415
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
