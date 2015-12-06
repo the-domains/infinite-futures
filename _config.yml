@@ -1,6 +1,6 @@
 name: Infinite Futures
 favicon: null
-layout_spectrum: 0.50303
+layout_spectrum: 0.50117
 typography_spectrum: 0.2607
 title: Futures and foresight research and training
 cta:
@@ -22,7 +22,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.625
   saturation: 0.5
   rhythmicContrast: 0.5
