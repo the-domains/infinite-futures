@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Futures and foresight research and training]]></title>
-        <description><![CDATA[Futures and foresight research and training]]></description>
+        <title><![CDATA[Infinite Futures]]></title>
+        <description><![CDATA[Infinite Futures]]></description>
         <link>https://thegrid.ai/infinite-futures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Dec 2015 20:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 17:54:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/infinite-futures/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Blockchain - a future of distributed trust networks - what are the possibilities?]]></title>
-            <description><![CDATA[<article><h1>Blockchain - a future of distributed trust networks - what are the possibilities?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e6ebdc4-b31a-49e9-9f94-d42a8a56fc76.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e6ebdc4-b31a-49e9-9f94-d42a8a56fc76.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/infinite-futures/5aff9964-af0d-49a6-b482-5ee9812e8288/index.html</link>
             <guid isPermaLink="false">5aff9964-af0d-49a6-b482-5ee9812e8288</guid>
             <pubDate>Sun, 06 Dec 2015 20:48:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c48a27d0-e5b5-4129-ae1b-3ea49ee23957.jpg">]]></description>
+            <link>https://thegrid.ai/infinite-futures/so-i-recently-experienced-one-of-those-not-uncommon-present/index.html</link>
+            <guid isPermaLink="false">abcb56e0-bd87-4bd7-8365-4846cc840561</guid>
+            <pubDate>Sat, 30 Apr 2016 17:54:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
